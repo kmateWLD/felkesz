@@ -1,0 +1,163 @@
+body {
+    margin: 0px;
+    
+    
+}
+body {
+    background-image: url("profil/weld7.jpg");
+    
+    
+   }
+
+.oldaltartalom {
+    display: grid;
+    
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-weight: normal;
+    font-family: Impact;
+    
+}
+
+.baloldal {
+    display: flex;
+}
+
+.navbar > .baloldal > div {
+    margin-right:  20px;
+    font-size: 24px;
+    
+}
+
+.navbar > .jobboldal > div {
+    margin-left:  20px;
+    font-size: 24px;
+    
+}
+
+.linkoperalo {
+    height: 20px;
+}
+.linkoperalo a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.linkoperalo:hover {
+    color: crimson;
+}
+
+.linkoperalo a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.linkoperalo2 {
+    height: 20px;
+}
+.linkoperalo2 a {
+    color: crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.linkoperalo2:hover {
+    color:  crimson;
+}
+
+.linkoperalo2 a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.elsooldalkepek {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.elsooldalkepek {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100;
+    padding-top: 50px;
+    padding-right: 800px;
+    
+}
+
+.elolkep {
+    display: flex;
+}
+
+.elsooldalkepek > .elolkep > div {
+    margin-right:  20px;
+}
+.bemutatkozas {
+    font-size: 24px;
+    padding-left: 50px;
+    font-family: monospace;
+    font-weight: lighter;
+    font-family: Impact;
+    
+}
+.elsooldalkepek {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+
+.cpt {
+    margin: 0px;
+    padding-top: 0px;
+    padding-left: 390px;
+    font-size: 64px;
+    font-family: Impact;   
+}
+
+/*awi*/
+.masodikbehivo {
+    height: 20px;
+}
+.masodikbehivo a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.masodikbehivo:hover {
+    color: crimson;
+}
+
+.masodikbehivo a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.masodikoldal {
+    display: flex;
+    justify-content: space-between;
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    
+}
+.LANG {
+    display: flex;
+    justify-content: space-between;
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    
+}
+.fullhd {
+    margin: 0px;
+    padding-top: 0px;
+    padding-left: 390px;
+    font-size: 20px;
+    font-family: Impact;
+    font-variant: small-caps; 
+}
+
+
